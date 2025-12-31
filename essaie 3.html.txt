@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma première page</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #FFD3D4;
+    }
+    h1 {
+        color: #333;
+    }
+</style>
+</head>
+<body>
+
+    <h1>Salut bandes de soupes au vomis !!</h1>
+    <p>Bienvenue i guess.</p>
+<img src="https://i.pinimg.com/736x/d5/e2/58/d5e258eb2588429b24716d757c6362bd.jpg" alt="kirby">
+
+<video controls width="600">
+    <source src="FILM1-1C.mp4" type="video/mp4">
+<video controls autoplay loop muted>
+    <p>C'est un film qu'on a fait il y a quelques mois hehe.</p>
+
+</video>
+<button onclick="alert('Hello !')">Clique-moi</button>
+<div class="card">
+    <h2>À propos de moi</h2>
+    <p>J’aime le cinéma, les jeux vidéo et la muscu.</p>
+</div>
+
+<style>
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 300px;
+}
+</style>
+
+<img src="https://media1.tenor.com/m/7I9nkd071vYAAAAC/food-coma-food.gif">
+
+</body>
+</html>
